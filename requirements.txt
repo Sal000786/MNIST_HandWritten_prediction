@@ -1,8 +1,11 @@
-Numpy
+numpy
 pandas
-sci-kit learn
-tensorflow==2.20.0
 streamlit
 joblib
 pickle
 PIL
+scikit-learn
+tensorflow==2.12.0
+
+
+

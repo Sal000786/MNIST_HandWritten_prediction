@@ -1,0 +1,8 @@
+Numpy
+pandas
+sci-kit learn
+tensorflow==2.20.0
+streamlit
+joblib
+pickle
+PIL
